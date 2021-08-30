@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coringplay&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=coringplay=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=CoringPlay=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **CoringPlay/CoringPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
