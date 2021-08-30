@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=coringplay&count_private=true&show_icons=true&hide_title=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coringplay&theme=dracula&count_private=true&show_icons=true&hide_title=true)
 <!--
 **CoringPlay/CoringPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
