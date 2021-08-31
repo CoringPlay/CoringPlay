@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My GitHub stats
+### My GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coringplay&theme=dracula&count_private=true&show_icons=true&hide_title=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CoringPlay&theme=dracula&hide_border=true)](https://git.io/streak-stats)
