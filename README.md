@@ -28,12 +28,12 @@
 <img src="https://img.wattpad.com/f95b18fdf1923c910d6b282fa6f66dc94cefabe9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3939524258425552324459536b673d3d2d372e313632306434363030373330373261343231303139373133383636332e676966?s=fit&w=720&h=720" align="right" width="373.5px" height="208.5px">
 </div>
 
+---
+
+---
+
 <div>
-<p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br> <img src="https://img.shields.io/badge/css3%20-%23F05033.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <br><br>
-
----
-
----
+<p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><br> <img src="https://img.shields.io/badge/css3%20-%23F05033.svg?&style=for-the-badge&logo=css3&logoColor=white"> <br><br>
 </p>
 
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
