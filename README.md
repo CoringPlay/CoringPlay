@@ -35,6 +35,7 @@
 <div>
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><br> <img src="https://img.shields.io/badge/css3%20-%23F05033.svg?&style=for-the-badge&logo=css3&logoColor=white"> <br><br>
 </p>
+</div>
 
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
