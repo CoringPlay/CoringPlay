@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/coringplay/count.svg" />
+</p>
+
 #### My GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coringplay&theme=dracula&count_private=true&show_icons=true&hide_title=true)
 
