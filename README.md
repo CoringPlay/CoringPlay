@@ -48,4 +48,9 @@ most used s-s-sociaw things >~< xoxox</p>
   
 ## My GitHub stats :100:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coringplay&theme=dracula&count_private=true&show_icons=true&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coringplay&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coringplay&theme=dracula&count_private=true&show_icons=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringplay&layout=demo&theme=dracula" />
+</a>
