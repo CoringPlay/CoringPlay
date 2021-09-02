@@ -7,7 +7,7 @@
 
 <div>
 <h2 align="center"> 🥰 ~ <img src="https://x-lines.ru/letters/i/cyrillicfancy/0620/ffffff/20/0/eftg67mwrbssk.png"> ~ 😏 </h2>
-<img src="https://c.tenor.com/Z6Gqy-qS-EQAAAAC/kakashi-naruto.gif" align="right" width="15%" height="35%">
+<img src="https://c.tenor.com/Z6Gqy-qS-EQAAAAC/kakashi-naruto.gif" align="right" width="35%" height="35%">
 <li>
 <b>Name:</b> Vlad</li>
 <li>
