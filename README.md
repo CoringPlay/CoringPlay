@@ -58,3 +58,6 @@ most used s-s-sociaw things >~< xoxox</p>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringplay&layout=demo&theme=dracula" />
 </a>
+
+<h2>🎮Gamend</h2>
+<a href="https://steamcommunity.com/id/coring472"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a> - Coring
