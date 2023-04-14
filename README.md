@@ -11,7 +11,7 @@
 <li>
 <b>Name:</b> Vlad</li>
 <li>
-<b>Fursona:</b> Protogen (❁´◡`❁)
+<b>Fursona:</b> ???
 </li>
 <li>
 <b>Gender:</b> ???
