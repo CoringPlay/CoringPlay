@@ -56,7 +56,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=coringplay&theme=dracula&count_private=true&show_icons=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringplay&layout=demo&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringplay&theme=dracula" />
 </a>
 
 <h2>🎮Gamend</h2>
